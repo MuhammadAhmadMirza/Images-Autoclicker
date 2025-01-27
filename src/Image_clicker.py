@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog, ttk
 import pyautogui
-from PIL import Image
 import json
 import os
 
