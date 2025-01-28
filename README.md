@@ -33,13 +33,12 @@ OR
 Run Source Code:
 
 1. Install Python 3.x from <https://www.python.org/>.
-2. Install the required libraries using pip:
+2. Download or clone the project files.
+3. Install the required libraries using pip:
 
      ```sh
      pip install -r requirements.txt
      ```
-
-3. Download or clone the project files.
 
 ## Usage
 
@@ -60,7 +59,6 @@ Run Source Code:
 
 ## Configuration
 
-- The application saves settings (image paths, mode, etc.) to a `settings.json` file in the same
 - The application saves settings (image paths, mode, etc.) to a `settings.json` file in the same directory as the script.
 - You can manually edit this file if needed.
 
@@ -82,7 +80,3 @@ Run Source Code:
 ## License
 
 This project is open-source and available under the MIT License. Feel free to modify and distribute it as needed.
-
-## GitHub Repository
-
-[GitHub Repository](https://github.com/MuhammadAhmadMirza/Images-Autoclicker)
